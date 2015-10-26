@@ -1,0 +1,23 @@
+name: wedding photography
+favicon: null
+layout_spectrum: 0.7301433722022921
+typography_spectrum: 0.36775932274758816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9810813113581389
+  lightness: 0.1230433750897646
+  saturation: 0.7332577495835721
+  rhythmicContrast: 0.36895837006159127
+purpose: []
